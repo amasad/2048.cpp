@@ -14,6 +14,8 @@
     <img align="center" alt="2048 in action!" src="assets/demo.gif"></img>
 </p>
 
+[![Try on repl.it](https://repl-badge.jajoosam.repl.co/try.png)](https://repl.it/@amasad/2048cpp)
+
 ## Setup
 
 The game and code is made to run natively on the GNU/Linux and MacOS platforms, but cross-platform compatibility for Windows has been added too.
